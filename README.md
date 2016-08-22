@@ -4,6 +4,7 @@
 
 
 <b>Notes</b>
+
 I wanted to test a few things in this page and show proof of concept:
 
 - The ability to create a project from a tile (e.g., Self Mailer with Card) and dismiss it.
