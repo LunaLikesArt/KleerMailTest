@@ -1,20 +1,19 @@
-- How to run the test -
-1. Clone the repository via console 'git clone git@github.com:LunaLikesArt/KleerMailTest.git'
+<b>How to run the test</b>
+- Clone the repository via console'git clone git@github.com:LunaLikesArt/KleerMailTest.git'
+- Install Protractor, follow the tutorial http://www.protractortest.org/#/tutorial
 
-2. Install Protractor, follow the tutorial http://www.protractortest.org/#/tutorial
 
-
-- Notes -
+<b>Notes</b>
 I wanted to test a few things in this page and show proof of concept:
 
-1. The ability to create a project from a tile (e.g., Self Mailer with Card) and dismiss it.
+- The ability to create a project from a tile (e.g., Self Mailer with Card) and dismiss it.
 
-2. The ability to create a project from a tile and create a project.
+- The ability to create a project from a tile and create a project.
 
-3. The abilities to search.
+- The abilities to search.
 
 
-- Known Issues -
+<b>Known Issues</b>
 - I ran into issues with timing. I googled searches and found workarounds, but the expected .then capability did not work.
 -  I only tested one tile, but the POC would work for all tiles.
 -  I found a couple of bugs, one with search and one with creating a project.
