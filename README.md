@@ -12,7 +12,7 @@ I wanted to test a few things in this page and show proof of concept:
 
 - The ability to create a project from a tile and create a project.
 
-- The abilities to search.
+- The different possibilities to search.
 
 <br />
 
