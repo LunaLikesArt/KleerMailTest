@@ -1,7 +1,8 @@
 <b>How to run the test</b>
-- Clone the repository via console'git clone git@github.com:LunaLikesArt/KleerMailTest.git'
+- Clone the repository via console 'git clone git@github.com:LunaLikesArt/KleerMailTest.git'
 - Install Protractor, follow the tutorial http://www.protractortest.org/#/tutorial
 
+<br />
 
 <b>Notes</b>
 
@@ -13,6 +14,7 @@ I wanted to test a few things in this page and show proof of concept:
 
 - The abilities to search.
 
+<br />
 
 <b>Known Issues</b>
 - I ran into issues with timing. I googled searches and found workarounds, but the expected .then capability did not work.
